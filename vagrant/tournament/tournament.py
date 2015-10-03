@@ -13,15 +13,15 @@ def connect():
 
 def deleteMatches():
     """Remove all the match records from the database."""
-
+    delete from 
 
 def deletePlayers():
     """Remove all the player records from the database."""
-
+    delete from players
 
 def countPlayers():
     """Returns the number of players currently registered."""
-
+    return 
 
 def registerPlayer(name):
     """Adds a player to the tournament database.
